@@ -1,0 +1,30 @@
+# Java build files
+target/
+bin/
+out/
+build/
+*.class
+lib
+
+# IDE-specific files
+.idea/
+*.iml
+*.ipr
+*.iws
+.idea_modules/
+
+# Miscellaneous files
+*.log
+*.swp
+*.swo
+.lock
+.DS_Store
+.settings/
+gradle/
+gradlew
+gradlew.bat
+gradle.properties
+
+# Properties files
+*.properties
+
